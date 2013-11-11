@@ -1,6 +1,6 @@
 Randomizer
 ==========
-You can see a live demo [here](http://semscenter.com/randomizer)
+You can see a live demo [here](http://geekygamer14.tk/playground/#randomizer)
 
 Declare `randomizer.php` like any other class.
 ```php
